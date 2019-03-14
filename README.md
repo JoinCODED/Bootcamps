@@ -138,7 +138,6 @@
 
 ## Tuwaiq - 2019
 
-
 **Instructors:**
 
 - Khalid Al Mohammed @khm56 kalmohammed56@gmail.com
@@ -148,10 +147,9 @@
 
 **Students:**
 
-
 - Fatima Almashi @FatimaAlmashi f.almashi@windowslive.com
 - Modi Alotaibi @Modi91 alotaibimood@gmail.com
-Nour not Noora. :)
+  Nour not Noora. :)
 - sitah Abdulatif Alsaleem @sitahlatif sitah27@hotmail.com
 - Fahad Bader Al Mutairi
 - Abdullah Abanmi
@@ -163,4 +161,4 @@ Nour not Noora. :)
 - Maram Kamil @Memexp maram.kamil@gmail.com
 - Nadya Abdulrahman @Nadyaak
 - Nujood Almadi @nujoodalmadi
-
+- Mohammed Aljumiah @aljumiah
