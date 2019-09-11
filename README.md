@@ -193,6 +193,9 @@
 **Instructors**
 
 - Hussein Almutawa @HUSSinBOOTS
+- Asis Alzaffar @octowl
 
 **Students**
+
 Husseino
+- Patatis Jr. @ptjr
