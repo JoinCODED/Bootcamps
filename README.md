@@ -193,5 +193,6 @@
 **Instructors**
 
 - Hussein Almutawa @HUSSinBOOTS
+- Asis Alzaffar @octowl
 
 **Students**
