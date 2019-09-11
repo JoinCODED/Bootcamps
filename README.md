@@ -196,3 +196,5 @@
 - Asis Alzaffar @octowl
 
 **Students**
+
+- Patatis Jr. @ptjr
