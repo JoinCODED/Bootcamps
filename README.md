@@ -202,6 +202,10 @@
 
 - Sulaiman AlQanaei @salqanaei
 - Fay Al-Zouman @fayalzouman
+- Nawaf B ALrifai
+- Saoud Alfares @sfares85
+- Aisha AlShaiji @aishans
+- Fatemah Al-Hajji @falhajji
 - Nawaf B ALrifai @nbalrifai
 - Aisha AlShaiji @aishans
 - Ahmad Helal @helaahma
@@ -210,3 +214,6 @@
 - Abdulaziz Bukhamseen @abdulaziz_bu50
 - Abdulghaphor Hajjieh @abdulghaphor
 - Mohammad B Mulla @zoremulla
+- Aziza Buabbas @AzizaBuabbas
+- Bader AlDuaij @ MrBaderNasser@gmail.com
+- Abdulghaphor Hajjieh @abdulghaphor (ew)
