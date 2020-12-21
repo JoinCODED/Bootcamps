@@ -372,3 +372,10 @@
 **Students**
 
 - Hiba AlQaed @hibaalqaed hibaalqaed@joincoded.com
+- Moudhi Albannai @malbannai moudhi.albannai@gmail.com
+- Rahaf Alenezi @ralenezi ralenezi71@gmail.com
+- Sara Al-Haddad @saraadelalhaddad sara.alhaddad@colorado.edu
+- Salwa Baqer @salwa.baqer s.abaqer@hotmail.com
+- Khaled Almansour @kalmansour khaledalmansour24@gmail.com
+- Mohammad Hasan @mohammadhasan3 mohamed.hassan940@hotmail.com
+- Abdullah Alsharrah @abdullahalsharrah adbdb.27@gmail.com
