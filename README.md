@@ -370,3 +370,5 @@
 - Laila AlKandery @lailz laila.a@joincoded.com
 
 **Students**
+
+- Hiba AlQaed @hibaalqaed hibaalqaed@joincoded.com
